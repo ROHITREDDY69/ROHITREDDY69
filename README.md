@@ -10,8 +10,9 @@
   <div style="flex: 1;">
    
    # 💫 About Me:
-I AM CODER<br>I MAKE WEBSITE<br>I LOVE ANIME<br>I AM A TELEGRAM CODER
-
+- 💻 I specialize in Python, but I enjoy exploring other technologies and languages as well.
+- 🚀 I'm always eager to learn new things and take on new challenges.
+- 🎓 I believe in the power of knowledge-sharing and open source.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohitreddy12345) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Swimmin_oil_998) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ROHITREDDY069) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dman10288@gmail.com) 
