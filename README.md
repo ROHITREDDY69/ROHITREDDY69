@@ -1,4 +1,15 @@
- # 💫 About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=180">
+</p>
+
+<h2 align="center">
+    ──「ROHIT REDDY」──
+</h2>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+   
+   # 💫 About Me:
 I AM CODER<br>I MAKE WEBSITE<br>I LOVE ANIME<br>I AM A TELEGRAM CODER
 
 
