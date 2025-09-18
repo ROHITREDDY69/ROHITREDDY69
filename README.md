@@ -14,6 +14,13 @@
 - 🚀 I'm always eager to learn new things and take on new challenges.
 - 🎓 I believe in the power of knowledge-sharing and open source.
 
+- Here's a bit more about me:
+<p align="center">
+<img src="https://radare.arzfun.com/api/tg/photo?id=AgACAgQAAxkBAAEGdtNotDWL41PX7SYOSPCY2pQ8yA0QIwACAskxG8DqUVAmTNU63KJ_VwEAAwIAA3kAAzYE">
+</p>
+
+<br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohitreddy12345) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Swimmin_oil_998) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ROHITREDDY069) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dman10288@gmail.com) 
 [![telegram](https://img.shields.io/badge/ROHIT-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/ROHITREDDY69)
@@ -37,9 +44,4 @@ I enjoy collaborating with other developers and learning from their experiences.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ROHITREDDY69&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ROHITREDDY69&icon=0&color=0)](https://visitcount.itsvg.in)
-
+Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
